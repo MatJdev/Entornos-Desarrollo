@@ -9,6 +9,8 @@ public class PruebaGit {
 
 		System.out.Println("Realizando cambios");
 
+		int num = 0;
+
 	}
 
 }
