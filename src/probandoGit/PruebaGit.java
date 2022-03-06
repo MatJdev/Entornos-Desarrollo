@@ -8,6 +8,8 @@ public class PruebaGit {
 		System.out.Println("Probando Git");
 
 		System.out.Println("Realizando cambios");
+		
+		System.out.Println("Cambios directamente desde github");
 
 	}
 
